@@ -1,0 +1,27 @@
+
+body{
+background-color: rgb(103, 9, 227); 
+}body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+background-color: rgb(7, 121, 121);
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
